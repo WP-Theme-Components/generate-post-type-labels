@@ -1,1 +1,3 @@
-# generate-post-type-labels
+# Generate Post Type Labels
+
+## Efficient post type labels generation
