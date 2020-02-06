@@ -2,7 +2,8 @@
 /**
  * Efficient post type labels generation
  *
- * @package WP-Theme-Components\generate-post-type-labels
+ * @package WP-Theme-Components
+ * @subpackage generate-post-type-labels
  * @author Cameron Jones
  * @version 1.0.0
  */
