@@ -28,7 +28,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @param array  $overrides Override any generated labels.
  * @return array The post type labels
  */
-function cameronjonesweb_generate_post_type_labels( $single, $plural, $overrides = array() ) {
+function generate_post_type_labels( $single, $plural, $overrides = array() ) {
 	$labels = array(
 		'name'                     => $plural,
 		'singular_name'            => $single,
