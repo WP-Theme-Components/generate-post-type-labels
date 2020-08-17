@@ -5,7 +5,8 @@
  * @package WP-Theme-Components
  * @subpackage generate-post-type-labels
  * @author Cameron Jones
- * @version 1.0.0
+ * @version 1.0.1
+ * @link https://github.com/WP-Theme-Components/generate-post-type-labels
  */
 
 namespace WP_Theme_Components\Generate_Post_Type_Labels;
