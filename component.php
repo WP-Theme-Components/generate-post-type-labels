@@ -5,7 +5,7 @@
  * @package WP-Theme-Components
  * @subpackage generate-post-type-labels
  * @author Cameron Jones
- * @version 1.0.1
+ * @version 1.0.2
  * @link https://github.com/WP-Theme-Components/generate-post-type-labels
  */
 
@@ -50,9 +50,9 @@ function generate_post_type_labels( $single, $plural, $overrides = array() ) {
 		'uploaded_to_this_item'    => 'Uploaded to this ' . strtolower( $single ),
 		'filter_items_list'        => 'Filter ' . strtolower( $plural ) . ' list',
 		'items_list_navigation'    => $plural . ' list navigation',
-		'items_list'               => $plural . 'Posts list',
+		'items_list'               => $plural . ' Posts list',
 		'item_published'           => $single . ' published.',
-		'item_published_privately' => $single . '  published privately.',
+		'item_published_privately' => $single . ' published privately.',
 		'item_reverted_to_draft'   => $single . ' reverted to draft.',
 		'item_scheduled'           => $single . ' scheduled.',
 		'item_updated'             => $single . ' updated.',
